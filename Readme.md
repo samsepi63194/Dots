@@ -12,6 +12,8 @@ File Manager: Dolphin
 
 Greeter: SDDM with https://gitlab.com/Matt.Jolly/sddm-eucalyptus-drop
 
+Fonts: JetBrainsMono Nerd Font
+
 
 
 
