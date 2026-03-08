@@ -1,5 +1,15 @@
 My dotfiles for linux 
 
+Principal Theme - Catppuccin Macchiato - Macchiato Flamingo: https://github.com/catppuccin/catppuccin
+
+Terminal: Kitty
+Shell: Fish
+Cursor: https://github.com/catppuccin/cursors
+File Manager: Dolphin
+Greeter: SDDM with https://gitlab.com/Matt.Jolly/sddm-eucalyptus-drop
+
+
+
 
 
 
