@@ -1,21 +1,21 @@
-My dotfiles for linux 
+- My dotfiles for linux -
+_______________________________________________________________________________________________________________________________________________________________________
+-- Principal Theme - Catppuccin Macchiato - Macchiato Flamingo: https://github.com/catppuccin/catppuccin
 
-Principal Theme - Catppuccin Macchiato - Macchiato Flamingo: https://github.com/catppuccin/catppuccin
+-- Terminal: Kitty
 
-Terminal: Kitty
+-- Shell: Fish
 
-Shell: Fish
+-- Cursor: https://github.com/catppuccin/cursors
 
-Cursor: https://github.com/catppuccin/cursors
+-- File Manager: Dolphin
 
-File Manager: Dolphin
+-- Greeter: SDDM with https://gitlab.com/Matt.Jolly/sddm-eucalyptus-drop
 
-Greeter: SDDM with https://gitlab.com/Matt.Jolly/sddm-eucalyptus-drop
-
-Fonts: JetBrainsMono Nerd Font
+-- Fonts: JetBrainsMono Nerd Font
 
 
-
+__________________________________________________________________________________________________________________________________________________________________________
 
 Screenshots: 
 
