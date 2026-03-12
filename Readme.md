@@ -27,6 +27,8 @@ ________________________________________________________________________________
 
 -> Top bar : Panel Colorizer widget with Translucent theme
 
+-> Wallpaper I use : https://github.com/rats-scamper/LoboGrubTheme & https://github.com/orangci/walls-catppuccin-mocha
+
 
 __________________________________________________________________________________________________________________________________________________________________________
 
